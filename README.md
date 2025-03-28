@@ -1,2 +1,4 @@
 # GitTreino
- Este repositório tem apenas como finalidade o estudo e treinamento da ferramenta GIT e GitDesktop
+ Este repositório tem apenas como finalidade o estudo e treinamento da ferramenta GIT e GitDesktop.
+
+ Repositório apenas para consulta.
