@@ -1,0 +1,48 @@
+/* Estilos gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #1e1e2e;
+    color: white;
+    text-align: center;
+}
+
+/* Cabeçalho */
+header {
+    background: #282843;
+    padding: 20px;
+    font-size: 24px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+/* Conteúdo principal */
+main {
+    margin-top: 80px;
+    padding: 40px;
+}
+
+.card {
+    background: #3b3b5c;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    width: 300px;
+    margin: 20px auto;
+}
+
+/* Rodapé */
+footer {
+    background: #282843;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
